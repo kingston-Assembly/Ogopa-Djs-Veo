@@ -1,0 +1,8 @@
+{
+  "name": "Ogopa DJ’s veo",
+  "description": "Offline-first virtual DJ web app featuring dual CDJ decks, 2-channel mixer, 4-stem isolation, sampler pads, smart automix, and set recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
